@@ -1,7 +1,7 @@
-### Salary Policy
+## Salary Policy
 Salaries are paid for month `n` in the first week (hopefully) of month `n+1` in either SGD or USD (depending on your contract). Occasionally, the company (to build business contacts in Vietnam) will pay your salary in VND via a local Vietnam bank. Should this occur, we will use the exchange rate 1 USD = 23000 VND (market exchange rate is about 1 USD = 22500 VND).
 
-### Reimbursement Policy
+## Reimbursement Policy
 The company will reimburse employees for expenses incurred in Singapore limited to the following categories:
 - Per diem (SGD$28 per work day) which covers incidental food and public transport costs.
 - Data plan (approx SGD$15).
