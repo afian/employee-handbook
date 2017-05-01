@@ -1,10 +1,12 @@
 ## Leave Policy
 
-Afi Labs has a flexible leave policy - this means that you are free to take as much time off as you choose, as long as you get the job done. We want you to focus on producing great results, rather than just putting in hours. Please discuss the days you want to take time off with your supervisor (Afian) and make sure that any outstanding work is either completed or handed over to a colleague. Once the leave is approved (in writing, through slack or whatsapp), please update the Movement Chart Trello board (https://trello.com/b/xRuJXqPw/movement-chart).
+Afi Labs has a flexible leave policy - this means that you are free to take as much time off as you choose, as long as you get the job done. We want you to focus on producing great results, rather than just putting in hours. We also want you to feel ownership over your work, over your time, and be able to take ownership over the amount of time that you need to reflect and recharge.
+
+Please discuss the days you want to take time off with your supervisor (Afian or Nelson) and make sure that any outstanding work is either completed or handed over to a colleague. Once the leave is approved (in writing, through slack or whatsapp), please update the Movement Chart Trello board (https://trello.com/b/xRuJXqPw/movement-chart).
 
 ### Official Holidays (2017)
 - Jan 26	Thursday	Tet holiday	National holiday
-- Jan 27	Friday		Vietnamese New Year's Eve	
+- Jan 27	Friday		Vietnamese New Year's Eve
 - Jan 28	Saturday	Vietnamese New Year	National holiday
 - Jan 29	Sunday		Tet holiday	National holiday
 - Jan 30	Monday		Tet holiday	National holiday
